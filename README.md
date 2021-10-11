@@ -1,5 +1,6 @@
 # Welcome to Sovereignty ARTIA repo
-This repository shall serve as a primary hub for all Sovereignty ARTIA (@SovARTIA) resources available for the public.
+This repository shall serve as a primary hub for all Sovereignty ARTIA (@SovARTIA) resources available for the public.<br />
+Social Media: [Twitter](https://twitter.com/sovARTIA) | [TikTok](https://tiktok.com/@sovartia) | [Instagram](https://instagram.com/sovartia)
 
 ## How Can This Help You?
 The goal of this repository is to give you all of the information and resources that you need in order to protect yourself against majority of the cybersecurity threats of today
