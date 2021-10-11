@@ -11,11 +11,11 @@ To be honest, if you are not sure why you should care then it is possible that y
 ## How Do I Get Started?
 In order to appropriately use this repo, you will need to know where your security threat model is currently and where you want it to be.
 
-**What is a Security Threat Model?**
+**What is a Security Threat Model?**<br />
 A Security Threat Model is a set of rules that you follow based on what you have decided to protect yourself against. There is no correct threat model but there is only the one that appeals most to you.
 In order to figure out which threat model is best for you, you should start here.
 
-**I already know my Security Threat Model, where is the resources?**
+**I already know my Security Threat Model, where is the resources?**<br />
 If you already know what threat model you are building/maintaining then feel free to start here
 
 For more information, check the [Wiki](https://github.com/SovereigntyMedia/SovARTIA/wiki)
