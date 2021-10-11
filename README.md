@@ -16,3 +16,5 @@ In order to figure out which threat model is best for you, you should start here
 
 **I already know my Security Threat Model, where is the resources?**
 If you already know what threat model you are building/maintaining then feel free to start here
+
+For more information, check the [Wiki](https://github.com/SovereigntyMedia/SovARTIA/wiki)
