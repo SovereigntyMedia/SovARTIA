@@ -52,7 +52,7 @@ services:
      - nginx-proxy_sovbridge
      
 networks:
- nginx-proxy_sovbridge:
+ sovbridge:
   external: true
 
 ...
