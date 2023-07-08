@@ -1,0 +1,5 @@
+#### THIS FOLDER CONTAINS DOCKER CONTAINER YAML FILES. YOU WILL NEED TO HAVE <a href="https://docs.docker.com/engine/install/">DOCKER ENGINE</a> + <a href="https://docs.docker.com/compose/install/">DOCKER-COMPOSE</a> INSTALLED IN ORDER TO GET THESE YAML FILES TO WORK.
+
+#### IT IS ALSO **HIGHLY** RECOMMENDED TO USE <a href="https://docs.portainer.io/start/install-ce/server/docker">PORTAINER</a> UNLESS YOU HAVE AN ALTERNATIVE METHOD OF CONTAINER MANAGEMENT
+
+<a href="https://docs.docker.com/develop/develop-images/dockerfile_best-practices/">Docker recommends</a> that users create their own networks when creating multiple docker containers that are to be used simultaneously. As such, these YAML files have be created to use an external bridged network called "sovbridge". You will need to create this network first in order to make sure that the containers have a network to attach to when they're made. If no manual network is made when these files are pulled down then the container will fail to deploy.
