@@ -16,7 +16,7 @@ services:
        - /opt/adguard/conf:/opt/adguardhome/conf
      restart: unless-stopped
      networks:
-       sovbridge
+       - sovbridge
 
 networks:
  sovbridge
