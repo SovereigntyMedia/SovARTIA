@@ -19,6 +19,6 @@ services:
        - sovbridge
 
 networks:
- sovbridge
+ sovbridge:
   external=True 
 ...    
