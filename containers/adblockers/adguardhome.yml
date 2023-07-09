@@ -15,4 +15,10 @@ services:
        - /opt/adguard/work:/opt/adguardhome/work
        - /opt/adguard/conf:/opt/adguardhome/conf
      restart: unless-stopped
+     networks:
+       sovbridge
+
+networks:
+ sovbridge
+  external=True 
 ...    
